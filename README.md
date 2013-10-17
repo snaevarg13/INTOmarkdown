@@ -34,20 +34,21 @@ https://github.com/snaevarg13/INTOPrufa.git
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
-Code::Blocks
-GNU General Public License 3
-Source code:
-http://sourceforge.net/projects/codeblocks/files/Sources/12.11/codeblocks_12.11-1.tar.gz/download
+<ol>
+<li>Code::Blocks
+<ul><li>GNU General Public License 3</li>
+<li>Source code:
+http://sourceforge.net/projects/codeblocks/files/Sources/12.11/codeblocks_12.11-1.tar.gz/download</li></ul></li></ol>
 
-PCSX2
+<li>PCSX2
 GNU General Public License
 Source code:
-http://pcsx2.net/download/releases/source-code/summary/7-source/93-pcsx2-v1-0-0-source-code.html
+http://pcsx2.net/download/releases/source-code/summary/7-source/93-pcsx2-v1-0-0-source-code.html</li>
 
-Mumble
+<li>Mumble
 New BSD license
 Source code:
-mumble.git.sourceforge.net/gitroot/mumble/mumble
+mumble.git.sourceforge.net/gitroot/mumble/mumble</li>
 
 ## 5. Unnið með Git (2. hluti)
 
