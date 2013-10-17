@@ -11,7 +11,8 @@
 Ég notaðist við VirtualBox til að setja upp Ubuntu, með image af síðunni sem bent var á.
 Ég lenti í smá veseni sem Extension pakki fyrir VirtualBox lagaði, og það gekk ágætlega eftir það.
 Hérna er mynd af upphafsskjánum:
-![Ubuntu upphafsskjár](upphafsskjar.jpg)
+[mynd]: http://bit.ly/19PKtE9
+![Ubuntu upphafsskjár][mynd]
 
 ## 2. Uppsetning á vim && git
 
