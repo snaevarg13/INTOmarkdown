@@ -37,18 +37,16 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 <ol>
 <li>Code::Blocks
 <ul><li>GNU General Public License 3</li>
-<li>Source code:
-http://sourceforge.net/projects/codeblocks/files/Sources/12.11/codeblocks_12.11-1.tar.gz/download</li></ul></li></ol>
+<li>http://sourceforge.net/projects/codeblocks/files/Sources/12.11/codeblocks_12.11-1.tar.gz/download</li></ul></li>
 
 <li>PCSX2
-GNU General Public License
-Source code:
-http://pcsx2.net/download/releases/source-code/summary/7-source/93-pcsx2-v1-0-0-source-code.html</li>
+<ul><li>GNU General Public License</li>
+<li>http://pcsx2.net/download/releases/source-code/summary/7-<li>source/93-pcsx2-v1-0-0-source-code.html</li></ul></li>
 
 <li>Mumble
-New BSD license
-Source code:
-mumble.git.sourceforge.net/gitroot/mumble/mumble</li>
+<ul><li>New BSD license</li>
+<li>mumble.git.sourceforge.net/gitroot/mumble/mumble</li></ul></li>
+</ol>
 
 ## 5. Unnið með Git (2. hluti)
 
